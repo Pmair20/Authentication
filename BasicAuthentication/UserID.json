@@ -1,0 +1,6 @@
+{
+    "username1": {
+        "hashed_password": "hashed_password_value",
+        "salt": "salt_value"
+    }
+}
